@@ -6,7 +6,7 @@ import { PortifolioComponent } from './portifolio/portifolio.component';
 
 const routes: Routes = [
 
-/*{path: '', redirectTo: '', pathMatch: 'full',}*/
+/*{path: '', redirectTo: '', pathMatch: 'full',}*/ 
 
 {path: ' contato', component: ContatoComponent},
 {path: 'curriculo', component: CurriculoComponent},
