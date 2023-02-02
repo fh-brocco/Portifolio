@@ -1,0 +1,15 @@
+.text {
+	font-size:  7pt;
+}
+
+.fa {
+font-size: 7pt;
+color: rgb(255, 255, 255);
+padding: 5px;
+margin: 0;
+margin-right: 0;
+}
+
+.fa-github-alt:hover{
+color: rgb(15, 1, 1)
+}
