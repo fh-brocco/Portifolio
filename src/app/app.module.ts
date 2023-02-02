@@ -7,6 +7,7 @@ import { MenuComponent } from './menu/menu.component';
 import { RodapeComponent } from './rodape/rodape.component';
 import { ContatoComponent } from './contato/contato.component';
 import { CurriculoComponent } from './curriculo/curriculo.component';
+import { PortifolioComponent } from './portifolio/portifolio.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { CurriculoComponent } from './curriculo/curriculo.component';
     MenuComponent,
     RodapeComponent,
     ContatoComponent,
-    CurriculoComponent
+    CurriculoComponent,
+    PortifolioComponent
   ],
   imports: [
     BrowserModule,
