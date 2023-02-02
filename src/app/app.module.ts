@@ -8,6 +8,7 @@ import { RodapeComponent } from './rodape/rodape.component';
 import { ContatoComponent } from './contato/contato.component';
 import { CurriculoComponent } from './curriculo/curriculo.component';
 import { PortifolioComponent } from './portifolio/portifolio.component';
+import { ComponentHomeComponent } from './component-home/component-home.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { PortifolioComponent } from './portifolio/portifolio.component';
     RodapeComponent,
     ContatoComponent,
     CurriculoComponent,
-    PortifolioComponent
+    PortifolioComponent,
+    ComponentHomeComponent
   ],
   imports: [
     BrowserModule,
