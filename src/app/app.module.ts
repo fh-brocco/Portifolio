@@ -8,7 +8,7 @@ import { RodapeComponent } from './rodape/rodape.component';
 import { ContatoComponent } from './contato/contato.component';
 import { CurriculoComponent } from './curriculo/curriculo.component';
 import { PortifolioComponent } from './portifolio/portifolio.component';
-import { ComponentHomeComponent } from './component-home/component-home.component';
+import { InicioComponent } from './inicio/inicio.component';
 
 @NgModule({
   declarations: [
@@ -18,8 +18,9 @@ import { ComponentHomeComponent } from './component-home/component-home.componen
     ContatoComponent,
     CurriculoComponent,
     PortifolioComponent,
-    ComponentHomeComponent
-  ],
+    InicioComponent
+    
+    ],
   imports: [
     BrowserModule,
     AppRoutingModule
